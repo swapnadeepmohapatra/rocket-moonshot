@@ -9,7 +9,7 @@ Deployed Link: https://mail.roc8.swapnadeep.com
 
 ## Code for Data Visualization Dashboard:
 
-https://github.com/swapnadeepmohapatra/moonshot-mail
+https://github.com/swapnadeepmohapatra/moonshot-data-dashboard
 
 Deployed Link: https://data.roc8.swapnadeep.com
 
